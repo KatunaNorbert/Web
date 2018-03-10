@@ -1,0 +1,266 @@
+body{
+    font-family: Avenir Next;
+    line-height: 1.5;
+    padding: 0;
+    margin: 0;
+    background-image: url(copie%20car-travel-tree.jpg);
+}
+
+.topbox{
+    color: #F7F7F7;
+    background-color: #0D0C0C;
+    background: rgba(13,12,12,0.6);
+}
+
+a{
+    text-decoration: none;
+    color: #F7F7F7;
+    font-size: 18px;
+}
+
+a:hover{
+    font-size: 19px;
+    color: #BFBFBF;
+}
+
+nav ul li{
+    float:left;
+    display: inline;
+    text-decoration: none;  
+    padding: 0px 30px 0px 30px;
+}
+
+ul{
+    margin:0px;
+    padding-top: 20px;
+    padding-left: 100px;
+}
+
+nav{
+    height: 60px
+}
+
+#Name{
+    text-align: center;
+    padding-top: 80px;
+    color: #19123C;
+    font-size: 45px;
+    padding-bottom: 480px
+}
+
+body header div{
+    height: 20px;
+    text-align: center;
+    padding-top: 1px;
+    color: #F7F7F7;
+    background: rgba(13,12,12,0.6);
+    display: table;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 0px 420px 0px 420px; 
+    border-radius: 25px 25px 0px 0px;
+}
+
+section{
+    background-color: #2C3B72;
+    height: 620px;
+}
+
+#datas{
+    margin: 0px;
+    background: rgba(13,12,12,0.6);
+    display: table;
+    margin-left: auto;
+    margin-right: auto;
+    width: 1098px;
+}
+
+
+#one,#two,#three{
+    background: rgba(13,12,12,0.6);
+    height: 100px;
+    margin: 0px;
+    padding: 0px;
+    color: #F7F7F7;
+    display: inline;
+    text-align: center;
+    margin-left: 150px;
+}
+
+#one{
+    margin-left: 70px;
+    background-color: #3D3D3D;
+    padding: 12px 5px;
+    margin-top: 20px;
+}
+
+#two{
+    background-color: #2D92FF;
+    padding: 12px 40px;
+}
+
+#three{
+    background-color: #3D3D3D;
+    padding: 12px 40px;
+}
+
+#top{
+    margin-top: 70px
+}
+
+#origin{
+    float:left;
+}
+
+#destination{
+    float:right
+}
+
+#input1{
+    margin-left: 70px;
+    margin-top: 50px;
+    margin-right: 70px;
+}
+
+p{
+    margin: 0;
+    font-size: 25px;
+    color: #F7F7F7;
+    margin-bottom: 7px;
+}
+
+input{
+    height: 40px;
+    width: 400px;
+    font-family: Arial Next;
+    font-size: 19px;
+    color: #C4BEBE;
+    border-radius: 3%;
+    border: none;
+}
+
+#departing{
+    float:left;
+}
+
+#returning{
+    float:right;
+}
+
+#input2{
+    margin-left: 70px;
+    margin-top: 160px;
+    margin-right: 70px;
+}
+
+.tree{
+    width:130px;
+}
+
+#rooms, #adults, #childrens{
+    float: left;
+    text-align: center
+}
+
+#input3{
+    margin-left: 70px;
+    margin-top: 270px;
+    margin-right: 70px;
+}
+
+#adults, #childrens{
+    padding-left: 120px
+}
+
+#rooms{
+    padding-left: 160px
+}
+
+#input3 input{
+    text-align: center;
+}
+
+#input4{
+    margin-left: 70px;
+    margin-top: 410px;
+    margin-right: 70px;
+    margin-bottom: 55px;
+}
+
+#input4 input{
+    width: 25px;
+    margin: 0px;
+    padding: 0px;
+    float: left
+}
+
+#input4 p{
+    font-size: 20px;
+    margin:0px;
+    padding-top: 6px
+}
+
+#input4 p{
+    float:left
+}
+
+#search {
+    margin-top: 15px;
+    float:right;
+}
+
+#check{
+    float: left;
+    padding-bottom: 15px
+}
+
+
+#search input{
+    width: 190px;
+    height: 57px;
+    background-color: #EFD90F;
+    color: #19123C;
+    text-align: center;
+    font-size: 25px;
+    font-family: Avenir Next;
+    border-radius: 0px;
+}
+
+footer{
+    background-color: #F7F7F7;
+    color: #19123C;
+    margin: 0px;
+    padding: 0px;
+    height: 250px
+}
+
+footer p{
+    color: #19123C;
+    margin: 0px;
+    display: inline;
+    padding-left:40px;
+    padding-right: 26px;
+}
+
+#conector{
+    height: 90px;
+    background: rgba(13,12,12,0.6);
+    margin-left: 164px;
+    margin-right: 163px;
+}
+
+#line{
+    display: inline;
+}
+
+#middle, #rigth{
+    padding-left: 215px;
+}
+
+#rigth{
+    padding-left: 205px;
+}
+
+#footertext{
+    margin-top: 50px
+}
